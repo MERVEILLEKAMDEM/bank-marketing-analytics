@@ -1,0 +1,28 @@
+{
+  "lignes": 41188,
+  "taux_global": 0.1127,
+  "taux_si_succes_precedent": 0.6511,
+  "taux_1_appel": 0.1304,
+  "taux_8plus_appels": 0.0411,
+  "modeles": {
+    "Régression logistique": {
+      "roc_auc": 0.741,
+      "pr_auc": 0.521
+    },
+    "Gradient boosting": {
+      "roc_auc": 0.639,
+      "pr_auc": 0.432
+    }
+  },
+  "meilleur_modele": "Régression logistique",
+  "taux_test": 0.3083,
+  "capture_top_20": 0.384,
+  "capture_top_30": 0.535,
+  "capture_top_50": 0.754,
+  "top_variables": [
+    "Jours depuis le dernier contact",
+    "Nb de salariés (indicateur macro)",
+    "Mois",
+    "Variation de l'emploi"
+  ]
+}
