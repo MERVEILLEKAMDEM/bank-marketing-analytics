@@ -49,4 +49,4 @@ python -m pytest -q
 UCI Machine Learning Repository, *Bank Marketing* (bank-additional-full). S. Moro, P. Cortez et P. Rita (2014), « A Data-Driven Approach to Predict the Success of Bank Telemarketing », *Decision Support Systems*. Licence CC BY 4.0.
 
 ---
-Pascale KAMDEM · Data & IA · [LinkedIn](https://www.linkedin.com/in/merveille-kamdem-562aa0284/)
+Pascale KAMDEM · Data & IA · [LinkedIn](https://www.linkedin.com/in/pascale-merveille-kamdem-562aa0284/)
